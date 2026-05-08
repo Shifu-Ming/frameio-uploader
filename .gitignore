@@ -12,3 +12,7 @@ logs/
 
 # reset.command 只在 release 提供，repo 內不放
 reset.command
+
+# 本機開發用（不該推 repo，同事不需要）
+src/
+build.command
