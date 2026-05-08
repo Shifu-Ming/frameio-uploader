@@ -15,6 +15,8 @@
 2. **`reset.command`** ─ 卡住想重來時用（[詳見下方](#-卡住了想重來resetcommand)）
    - 隨意放（譬如桌面），需要時雙擊
 
+> ⚠️ **不要下載 `Source code (zip)` 或 `Source code (tar.gz)`** ─ 那是 GitHub 自動加的程式碼快照，不是你要的。
+
 > 前提：電腦要有 **Google Chrome**（沒有先裝 https://www.google.com/chrome ）
 
 ---

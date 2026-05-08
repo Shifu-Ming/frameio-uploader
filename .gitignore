@@ -9,3 +9,6 @@ dist/
 logs/
 .vscode/
 .idea/
+
+# reset.command 只在 release 提供，repo 內不放
+reset.command
