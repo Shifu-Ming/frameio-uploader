@@ -6,7 +6,7 @@
 
 - GitHub：`Shifu-Ming/frameio-uploader`（private）。gh 一律用 Shifu-Ming 帳號。
 - 交付檔只有 `dist/` 底下的 `Frame.io 上傳小精靈.app.zip`（⛔ 別把 `.venv`、`browser_profile` 之類的東西放進去）。
-- 發新版：改版本號 → commit → 打包產 `.app.zip` → `gh release create` 附上 `.app.zip`（附件檔名別用中文，見大本營根 CLAUDE.md）。
+- 發新版：改版本號 → commit → 打包產 `.app.zip` → `gh release create` 附上 `.app.zip`（附件檔名別用中文：GitHub 會把中文吃掉，一律英文檔名＋`#中文標籤`）。
 
 ## ⭐ 發版後要做的事（2026-09-30 加）
 
