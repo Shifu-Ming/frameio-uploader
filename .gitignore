@@ -16,3 +16,6 @@ reset.command
 # 本機開發用（不該推 repo，同事不需要）
 src/
 build.command
+
+# 手動備份（本機還原用，不是歷史）
+**/_備份/
